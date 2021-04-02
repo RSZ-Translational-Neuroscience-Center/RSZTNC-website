@@ -1,2 +1,2 @@
-# RSZTNC-website
-RSZ Translational Neuroscience Center Website
+# TSC-study-website
+TSC Study Website
